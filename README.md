@@ -25,6 +25,5 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 
 [![GitLab](icons/gitlab.png)](https://gitlab.com/NourAhmed24)
-[![Facebook](icons/facebook.png)](https://facebook.com/nour.ahmedmostafa.5)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/nour-ahmed/)
+[![LinkedIn](icons/linkedin.png)]([https://www.linkedin.com/in/nour-ahmed/](https://www.linkedin.com/in/nour-ahmed-8a344b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
