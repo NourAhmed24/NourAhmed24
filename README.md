@@ -1,6 +1,4 @@
-Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-twitter-handle" height="30" width="30" /></a>&nbsp; <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin-profile" height="30" width="30" /></a>&nbsp; <a href="http://discord.com/users/your-discord-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="your-discord-id" height="40" width="30" /></a>&nbsp; <a href="https://www.buymeacoffee.com/your-profile"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a> </p>
-
+Hi there! 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
     🧑‍💻 I'm a passionate AI Engineer & Machine Learning Enthusiast with a background in Communications & Computer Engineering
@@ -17,17 +15,18 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
     
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Python_logo_2020.svg/800px-Python_logo_2020.svg.png" alt="python" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Java_logo_icon.png" alt="java" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TensorFlow_logo.svg" alt="tensorflow" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scikit_learn_logo.svg" alt="scikit-learn" width="65" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Keras_logo.svg" alt="keras" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/OpenCV_logo.svg" alt="opencv" width="65" height="65">
-    <img src="https:////www.vectorlogo.zone/logos/OpenCV/OpenCV-icon.svg" alt="opencv" width="65" height="65">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/OpenCV_logo.svg" alt="opencv" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Apache_Spark_logo.svg" alt="spark" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/PyTorch_logo.svg" alt="pytorch" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Apache_Hadoop_logo.svg" alt="hadoop" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Redis_logo.svg" alt="redis" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Kubernetes_Logo.svg" alt="kubernetes" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/SQL_Logo.svg" alt="sql" width="65" height="65"/>
      
 </p>
 
