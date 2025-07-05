@@ -1,5 +1,5 @@
 Hi there! 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35 <p align="center"> </p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35> <p align="center"> </p>
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
@@ -37,8 +37,7 @@ Hi there!
 
 <!-- BLOG-POST-LIST:END -->
 
-▶ ... view more
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+ A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme"> <!--STARTS_HERE_QUOTE_README--> • <i>“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” — Stephen Hawking</i> <!--ENDS_HERE_QUOTE_README--> </a>
 <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
