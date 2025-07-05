@@ -24,6 +24,11 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 <h2 align="left">:heart: Let's get connected:</h2>
 
 
-[![GitLab](icons/gitlab.png)](https://gitlab.com/NourAhmed24)
-[![LinkedIn](icons/linkedin.png)]([https://www.linkedin.com/in/nour-ahmed/](https://www.linkedin.com/in/nour-ahmed-8a344b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
+[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/
