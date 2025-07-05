@@ -1,4 +1,4 @@
-Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <p align="center"> </p>
+ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <p align="center"> </p> 
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
@@ -21,7 +21,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h5 align="left">:heart: Let's get connected:</h5>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/nour-ahmed-8a344b226"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
