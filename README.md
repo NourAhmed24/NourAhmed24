@@ -16,7 +16,20 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
     🧑‍💻 Tech I work on:
     
 
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Python_logo_2020.svg/800px-Python_logo_2020.svg.png" alt="python" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Java_logo_icon.png" alt="java" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TensorFlow_logo.svg" alt="tensorflow" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scikit_learn_logo.svg" alt="scikit-learn" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Keras_logo.svg" alt="keras" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/OpenCV_logo.svg" alt="opencv" width="65" height="65"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/PyTorch_logo.svg" alt="pytorch" width="65" height="65"/> </p>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
+
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 
