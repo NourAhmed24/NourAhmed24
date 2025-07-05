@@ -22,13 +22,10 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
+<p align="center">
 
+  <a href="https://www.linkedin.com/in/nour-ahmed-8a344b226"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/nour.ahmedmostafa.5"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
 
-
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/
+</p>
+Icons by [https://icons8.com](https://icons8.com)
